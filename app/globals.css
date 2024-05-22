@@ -8,6 +8,7 @@
   }
 
   html, body {
+    @apply bg-gradient bg-cover bg-[50%] bg-repeat;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     margin: 0;
     padding: 0;
